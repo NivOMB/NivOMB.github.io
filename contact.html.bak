@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+	<head>
+		<title>N2 Labs </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+
+<body>
+
+<link href="contact-form.css" rel="stylesheet">
+
+<div class="fcf-body">
+
+	<!-- Header -->
+				<header id="header">
+				 <h3 class="fcf-h3">Contact us</h3>
+					<span class="image"><img src="images/logo.jpg" alt="" width="140" height="140"> </span>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							
+							<!--
+							<li>
+								<a href="#">Products and Services</a>
+								<ul>
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option 1</a></li>
+											<li><a href="#">Option 2</a></li>
+											<li><a href="#">Option 3</a></li>
+											<li><a href="#">Option 4</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							
+							-->
+							<li><a href="elements.html">About Us</a></li>
+							<li><a href="#" class="contact.html">Contact Us</a></li>
+						</ul>
+					</nav>
+				</header>
+
+    <div id="fcf-form">
+   
+	<br>
+		<br>
+			<br>
+				<br>
+					<br>
+						<br>
+							<br>
+						
+
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+        
+        <div class="fcf-form-group">
+            <label for="Name" class="fcf-label">Your name</label>
+            <div class="fcf-input-group">
+                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Email" class="fcf-label">Your email address</label>
+            <div class="fcf-input-group">
+                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Message" class="fcf-label">Your message</label>
+            <div class="fcf-input-group">
+                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
+        </div>
+
+  
+
+    </form>
+    </div>
+
+</div>
+
+</body>
+</html>

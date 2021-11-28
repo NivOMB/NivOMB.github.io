@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>N2 Labs </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+				
+<!--
+				<h1 id="logo"><a href="index.html">N2 Labs</a></h1> 
+				
+				-->
+					<span class="image"><img src="images/logo.jpg" alt="" width="200" height="200"> </span>
+						<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<!--
+							
+							<li>
+								<a href="#">Products and Services</a>
+								<ul>
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									
+									<!-- <li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option 1</a></li>
+											<li><a href="#">Option 2</a></li>
+											<li><a href="#">Option 3</a></li>
+											<li><a href="#">Option 4</a></li>
+										</ul>
+									</li>
+									
+									
+								</ul>
+							</li>
+							-->
+							<li><a href="elements.html">About Us</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>N2 Labs </h2>
+							<p>Consultancy that stays ahead of the loop.<br />
+							Hands on IT, it's in our DNA.</p>
+						</header>
+						<span class="image"><img src="images/1.jpg" alt="" /></span>
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- One -->
+			<section id="one" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>Our Expertise</h2>
+							<p>We strive to use industry best practices and cutting edge developments within global IT landscape</p>
+						</header>
+						<div class="box alt">
+							<div class="row gtr-uniform">
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-chart-area"></span>
+									<h3>Enterprise Architecting & Innovation Strategizing</h3>
+									<p>Creating robust enterprise architectures to ensure future proofing businesses. Providing Innovation strategy bespoke for your company's individuality</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-comment"></span>
+									<h3>Software Sourcing & Sales</h3>
+									<p>Sourcing software from global partners that are proven to create less waste, more efficient and streamlined processes.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-flask"></span>
+									<h3>Cross Platform Solution Delivery (Windows/Linux)</h3>
+									<p>.Net diagnostics, remedy recommendations & upgrade management.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-lock"></span>
+									<h3>Social Intelligence analytics & process engineering</h3>
+									<p>Utilise the power of social intelligence to make sure our clinets use correct IT tools.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-paper-plane"></span>
+									<h3>Program & Portfolio Management</h3>
+									<p>Using industry standard techniques to ensure client portfolios and programs are managed to ensure on time, wihtin budget delivery.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Bespoke Blockchain Solutions</h3>
+									<p>With a strong worldwide partner network we deliver cutting edge blockchain solution to businesses of all size to harness power of decentralisation.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Solution Design & Verification</h3>
+									<p>Client specifc customised solution design and verification</p>
+								</section>
+								
+							</div>
+						</div>
+						<footer class="major">
+							<ul class="actions special">
+								<li><a href="contact.html" class="button">Get In Touch</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+					<span class="image fit main"><img src="images/2.jpg" alt="" /></span>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+		
+			
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+					<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
