@@ -15,8 +15,9 @@
 
 	<!-- Header -->
 				<header id="header">
-				 <h3 class="fcf-h3">Contact us</h3>
+				
 					<span class="image"><img src="images/logo.jpg" alt="" width="140" height="140"> </span>
+					
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
@@ -59,7 +60,7 @@
 						
 
     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-        
+         <h3 class="fcf-h3">Contact us</h3>
         <div class="fcf-form-group">
             <label for="Name" class="fcf-label">Your name</label>
             <div class="fcf-input-group">
