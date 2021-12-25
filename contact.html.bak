@@ -17,7 +17,33 @@
 				<header id="header">
 				
 					<span class="image"><img src="images/logo.jpg" alt="" width="140" height="140"> </span>
-					
+					 <h3 class="fcf-h3">If you want to know what we do or would like to partner with us,<br>
+
+					 to bring cutting edge technology to Australian and New Zealand clientele, <br>
+					 
+					 
+					 come say hello!
+					 
+					 <br>
+					 <br>
+					 <br>
+					 <br> 
+					 
+					    info@n-2labs.com
+					 <br>
+					 <br>
+					    +64210332155
+						 <br>
+						+64220824830
+					 <br>
+					 </h3>
+					 
+					 
+					 
+					  <h3 class="fcf-h3"></h3>
+					 
+					 
+					 
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
@@ -60,7 +86,9 @@
 						
 
     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-         <h3 class="fcf-h3">Contact us</h3>
+	
+	<!--
+        
         <div class="fcf-form-group">
             <label for="Name" class="fcf-label">Your name</label>
             <div class="fcf-input-group">
@@ -85,6 +113,9 @@
         <div class="fcf-form-group">
             <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
         </div>
+
+
+-->
 
   
 
