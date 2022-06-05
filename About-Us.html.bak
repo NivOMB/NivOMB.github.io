@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>N2 Labs</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">N2 Labs</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="Services-Offered.html">Services Offered</a></li>
+							<li><a href="About-Us.html">About Us</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>Team at N2 Labs</h2>
+							<p>Strong team at N2 Labs is the secret of our success.<br />
+							</p>
+						</header>
+						<!--<span class="image"><img src="images/pic01.jpg" alt="" /></span> -->
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+				<!-- One-->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="images/pic09.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="col-4 col-12-medium">
+									<header>
+										<h2>Our Mission</h2>
+										<p>"Deliver cutting edge, world leading technological solutions to NZ & Australian clientele, through global partnerships with industry leaders and change makers." </p>
+									</header>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>Co-founders of N2 labs are IT enterprise architects. With over 20 years combined experience within New Zealand and Australian IT industry ranging multiple sectors (Pharmaceutical, medical devices, food & beverage, Luxury brands, Logistics & Transportation, Insurance and banking).</p>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>Our mission is what drives us to do everything possible to address the gap and to deliver cutting edge modular and bespoke agile solutions for private and public sectors. We do that by partnering up with the world’s most creative, forward thinking and cutting edge businesses.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Two-->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/pic10.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Service Area </h2>
+							<p>Based in Auckland, New Zealand, we primarily manage clients through out New Zealand and Australia.</p>
+						</header>
+						<p>At our core we are an Austral-Asian IT Consultancy. We provide Technology Consulting and Managed IT Services for business of all sizes.</p>
+						<ul class="actions">
+							<li><a href="contact.html" class="button">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three-->
+				<section id="three" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/pic12.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Partners</h2>
+							<p>We specialise in bringing global cutting edge technoogies to local audiences.</p>
+						</header>
+						<p> We are all about team work. If you would like to partner up with a strong local team to bring your technologies to New Zealand and Australia please inquire. We are always seeking to build long standing relationships</p>
+						<ul class="actions">
+							<li><a href="contact.html" class="button">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section> 
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>Our Expertise</h2>
+							<p>We strive to use industry best practices and cutting edge developments within global IT landscape</p>
+						</header>
+						<div class="box alt">
+							<div class="row gtr-uniform">
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-chart-area"></span>
+									<h3>Enterprise Architecting & Innovation Strategizing</h3>
+									<p>Creating robust enterprise architectures to ensure future proofing businesses. Providing Innovation strategy bespoke for your company's individuality</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-comment"></span>
+									<h3>Software Sourcing & Sales</h3>
+									<p>Sourcing software from global partners that are proven to create less waste, more efficient and streamlined processes.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-flask"></span>
+									<h3>Cross Platform Solution Delivery (Windows/Linux)</h3>
+									<p>.Net diagnostics, remedy recommendations & upgrade management.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-lock"></span>
+									<h3>Social Intelligence Analytics & Process Engineering</h3>
+									<p>Utilise the power of social intelligence to make sure our clients use correct IT tools.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-paper-plane"></span>
+									<h3>Program & Portfolio Management</h3>
+									<p>Client centered programme and project management (Agile,Waterfal and Hybrid methodoogies)to ensure on time, wihtin budget delivery.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Bespoke Blockchain Solutions</h3>
+									<p>With a strong worldwide partner network we deliver cutting edge blockchain solution to businesses of all size to harness power of decentralisation.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Solution Design & Verification</h3>
+									<p>Client specifc customised solution design and verification</p>
+								</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>End 2 End IT Infrastructure Delivery</h3>
+									<p>Cient centered End 2 End infrastructure delivery/Refresh to ensure business continuity </p>
+								</section>
+								
+								
+
+							</div>
+						</div>
+
+						<footer class="major">
+							<ul class="actions special">
+								<li><a href="contact.html" class="button">Get in touch</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			
+
+			<!-- Footer -->
+				<footer id="footer">
+					
+					<ul class="copyright">
+						<li>&copy; N2 Labs. All rights reserved.</li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

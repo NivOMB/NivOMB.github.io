@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>N2 Labs</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">N2 Labs</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="no-sidebar.html">About Us</a>
+								
+							</li>
+							<li><a href="contact.html">Contact</a></li>
+							
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>N2 Labs</h2>
+							<p>We can see through in to the future. And no, there are no crystal balls.<br />
+							Just experience. Lots and lots of it.</p>
+						</header>
+						<!--<span class="image"><img src="images/pic01.jpg" alt="" /></span> -->
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- One -->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="images/pic02.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="col-4 col-12-medium">
+									<header>
+										<h2>Data Driven Intelligence</h2>
+										<p>Insights hidden in raw data form are like gems under ground. </p>
+									</header>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>That is why at N2 Labs we love data & insights they eclipse. Polish them up & the invisible will surface.</p>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>And so current status quo shows us a major forward demand pull. Think of it as a fast forwarding of few years in to the future where future demand presents it self today. This is true for most LoBs out there.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Two -->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>A Connected Ecosystem </h2>
+							<p>Connect the verticles & silos horizontally to harness & reach true potential</p>
+						</header>
+						<p>The digital presence & connectivity in to growing ecosystems has now become more important than ever. What was a snail pace transformation pre 2019 era has now kicked in to higher gears. Enterprises are fast realizing that digital streams are no longer complimentary rather a neccessity that needs accelerated execution & delivery.</p>
+						<ul class="actions">
+							<li><a href="contact.html" class="button">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three -->
+				<section id="three" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Supply Chain & Logistics</h2>
+							<p>Obsolete works until it doesn't</p>
+						</header>
+						<p>Its obsolete, but it works & it gets the job done! something you hear quite often. Old adage has some merit as we see often in practice, but it doesn't mean innovation is out of the picture. Go for proactive innovations in smaller incrementals, incorprate ways to eliminate ineffciencies & most of the time you will be ahead of that pack if you do.</p>
+						<ul class="actions">
+							<li><a href="contact.html" class="button">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>Our Expertise</h2>
+							<p>We strive to use industry best practices and cutting edge developments within global IT landscape</p>
+						</header>
+						<div class="box alt">
+							<div class="row gtr-uniform">
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-chart-area"></span>
+									<h3>Enterprise Architecting & Innovation Strategizing</h3>
+									<p>Creating robust enterprise architectures to ensure future proofing businesses. Providing Innovation strategy bespoke for your company's individuality</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-comment"></span>
+									<h3>Software Sourcing & Sales</h3>
+									<p>Sourcing software from global partners that are proven to create less waste, more efficient and streamlined processes.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-flask"></span>
+									<h3>Cross Platform Solution Delivery (Windows/Linux)</h3>
+									<p>.Net diagnostics, remedy recommendations & upgrade management.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-lock"></span>
+									<h3>Social Intelligence Analytics & Process Engineering</h3>
+									<p>Utilise the power of social intelligence to make sure our clients use correct IT tools.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-paper-plane"></span>
+									<h3>Program & Portfolio Management</h3>
+									<p>Using industry standard techniques to ensure client portfolios and programs are managed to ensure on time, wihtin budget delivery.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Bespoke Blockchain Solutions</h3>
+									<p>With a strong worldwide partner network we deliver cutting edge blockchain solution to businesses of all size to harness power of decentralisation.</p>
+								</section>
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Solution Design & Verification</h3>
+									<p>Client specifc customised solution design and verification</p>
+								</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon solid alt major fa-file"></span>
+									<h3>Cutting Edge Medical Solutions</h3>
+									<p>With the emergence of Covid-19 we strive to bring cutting edge products to the NZ market</p>
+								</section>
+								
+							</div>
+						</div>
+
+						<footer class="major">
+							<ul class="actions special">
+								<li><a href="contact.html" class="button">Get in touch</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			
+
+			<!-- Footer -->
+				<footer id="footer">
+					
+					<ul class="copyright">
+						<li>&copy; N2 Labs. All rights reserved.</li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

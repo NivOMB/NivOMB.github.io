@@ -16,10 +16,8 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
-							<li>
-								<a href="no-sidebar.html">About Us</a>
-								
-							</li>
+							<li><a href="Services-Offered.html">Services Offered</a></li>
+							<li><a href="About-Us.html">About Us</a></li>
 							<li><a href="contact.html">Contact</a></li>
 							
 						</ul>
@@ -47,15 +45,15 @@
 							<div class="row">
 								<div class="col-4 col-12-medium">
 									<header>
-										<h2>Data Driven Intelligence</h2>
-										<p>Insights hidden in raw data form are like gems under ground. </p>
+										<h2>Data Driven Intelligent Enterprise Architecture</h2>
+										<p>Let data from your business paint a picture to make key decisions</p>
 									</header>
 								</div>
 								<div class="col-4 col-12-medium">
 									<p>That is why at N2 Labs we love data & insights they eclipse. Polish them up & the invisible will surface.</p>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>And so current status quo shows us a major forward demand pull. Think of it as a fast forwarding of few years in to the future where future demand presents it self today. This is true for most LoBs out there.</p>
+									<p>Build an Enterprise Architecture for now and future. Think of it as a fast forwarding of few years in to the future where future demand presents it self today. This is true for most LoBs (Line of Businesses) out there.</p>
 								</div>
 							</div>
 						</div>
@@ -68,7 +66,7 @@
 					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>A Connected Ecosystem</h2>
+							<h2>A Connected Ecosystem </h2>
 							<p>Connect the verticles & silos horizontally to harness & reach true potential</p>
 						</header>
 						<p>The digital presence & connectivity in to growing ecosystems has now become more important than ever. What was a snail pace transformation pre 2019 era has now kicked in to higher gears. Enterprises are fast realizing that digital streams are no longer complimentary rather a neccessity that needs accelerated execution & delivery.</p>
@@ -127,7 +125,7 @@
 								<section class="col-4 col-6-medium col-12-xsmall">
 									<span class="icon solid alt major fa-paper-plane"></span>
 									<h3>Program & Portfolio Management</h3>
-									<p>Using industry standard techniques to ensure client portfolios and programs are managed to ensure on time, wihtin budget delivery.</p>
+									<p>Client centered programme and project management (Agile,Waterfal and Hybrid methodoogies)to ensure on time, wihtin budget delivery.</p>
 								</section>
 								<section class="col-4 col-6-medium col-12-xsmall">
 									<span class="icon solid alt major fa-file"></span>
@@ -141,8 +139,8 @@
 								</section>
 									<section class="col-4 col-6-medium col-12-xsmall">
 									<span class="icon solid alt major fa-file"></span>
-									<h3>Cutting Edge Medical Solutions</h3>
-									<p>With the emergence of Covid-19 we strive to bring cutting edge products to the NZ market</p>
+									<h3>End 2 End IT Infrastructure Delivery</h3>
+									<p>Cient centered End 2 End infrastructure delivery/Refresh to ensure business continuity </p>
 								</section>
 								
 							</div>
